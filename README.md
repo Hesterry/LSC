@@ -1,4 +1,4 @@
-﻿### LSC is essentially complete, and I will be setting the project aside. Anyone is free to unofficially continue the project, as long as they provide credit to this page. For more information, please check this page: https://github.com/Hesterry/LSC/wiki/The-Future-of-LSC Thank you!
+### LSC is essentially complete, and I will be setting the project aside. Anyone is free to unofficially continue the project, as long as they provide credit to this page. For more information, please check this page: https://github.com/Hesterry/LSC/wiki/The-Future-of-LSC Thank you!
 
 
 ### What is LSC?
@@ -41,6 +41,7 @@ BTC Wallet: 3QZDJ3JaJdtCBYVnTTAfvsYVPRnr8b3Hsh
 
 Discord: https://discord.gg/V5vWSsu  
 GitHub: https://github.com/Hesterry/LSC  
+Source Code: https://github.com/Hesterry/LSC_Source
 
 
 ### Credits
