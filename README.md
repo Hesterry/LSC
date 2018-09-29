@@ -1,4 +1,4 @@
-﻿### LSC is now essentially complete, and I will be setting the project aside. However, development will hopefully continue in someone else's hands. For more details, please see this page: https://github.com/Hesterry/LSC/wiki/The-Future-of-LSC
+﻿### LSC is essentially complete, and I will be setting the project aside. Anyone is free to unofficially continue the project, as long as they provide credit to this page. For more information, please check this page: https://github.com/Hesterry/LSC/wiki/The-Future-of-LSC Thank you!
 
 
 ### What is LSC?
@@ -31,7 +31,7 @@ Delete the LSC folder, then navigate to C:\Users\\"UserName"\AppData\Local\ and 
 
 ### Donate
 
-LSC's development is currently on hold, so I've removed the Patreon link within the app, and I'm no longer including donation links in my posts to Reddit and the BDO forums. However, if you still wish to donate to show support for my past effort, I've decided to leave these links here in the ReadMe. Thank you!
+I've decided to discontinue the development of LSC, so I've removed the Patreon link within the app, and I'm no longer including donation links in my posts to Reddit and the BDO forums. However, if you still wish to donate to show support for my past effort, I've decided to leave these links here in the ReadMe. Thank you!
 
 Patreon: https://www.patreon.com/lifeskillcalculator  
 BTC Wallet: 3QZDJ3JaJdtCBYVnTTAfvsYVPRnr8b3Hsh  

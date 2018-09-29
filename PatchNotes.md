@@ -1,5 +1,12 @@
 ## LSC Patch Notes
 
+### Version 1.0.1 Notes
+*(September 29th, 2018)*
+
+- Fixed the Meat Stew recipe to correctly use Cooking Wine instead of Cooking Honey.
+- Setting an override value to 0 in the inspector or trade tool will now return 0, instead of the current value.
+
+
 ### Full Release! Version 1.0 Notes
 *(August 12th, 2018)*
 
